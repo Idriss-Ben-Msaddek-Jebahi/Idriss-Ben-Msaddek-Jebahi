@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Idriss-Ben-Msaddek-Jebahi
 - 👀 I’m interested in Cybersecurity.
-- 🌱 I’m currently pursuing a licence in computer engineering: Embedded Systems & IoT.
+- 🌱 I’m currently pursuing a license in computer engineering: Embedded Systems & IoT.
 - 💞️ I’m looking to collaborate on Nada.
 - 📫 How to reach me : Unavailable atm.
 
